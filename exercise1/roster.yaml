@@ -13,3 +13,7 @@ employees:
   email: ryan.howard@noaa.gov
   supervisor:
   - Michael Scott
+- name: Mindo Choi
+  email: mindo.choi@noaa.gov
+  supervisor:
+  - All of EMC team members
